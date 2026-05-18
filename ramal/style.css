@@ -16,7 +16,9 @@ body {
 
 }
 
-
+div#container {
+    overflow-x: auto;
+}
 
 nav {
     color: blueviolet;
