@@ -14,6 +14,10 @@ body {
 
 }
 
+div#container {
+    overflow-x: auto;
+}
+
 img {
     width: 78%;
     margin: 10px;
